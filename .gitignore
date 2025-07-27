@@ -1,0 +1,9 @@
+playwright_pytest.code-workspace
+.pytest_cache
+/PytestPython/.idea
+/PytestPython/playwright/.pytest_cache
+/PytestPython/playwright/__pycache__
+/PytestPython/pytestDir/.pytest_cache
+/PytestPython/pytestDir/__pycache__
+/.vscode/tasks.json
+/.vscode/launch.json
